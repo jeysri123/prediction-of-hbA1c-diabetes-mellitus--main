@@ -60,10 +60,10 @@ Preprocessed and split into training and testing sets with proper scaling.
 
 
 🧑‍💻 Developed By
-Harini A
+Jeysri V
 3rd Year B.Tech IT Student
 M. Kumarasamy College of Engineering, Karur
-📍 Dindigul, Tamil Nadu
+📍 Karur, Tamil Nadu
 
 🌟 Show Support
 If you found this project useful, leave a ⭐ on the repo and share your thoughts!
